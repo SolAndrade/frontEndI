@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+    margin: auto;
+    text-align: center;
+}
+/*.img{
+    display: block;
+    margin: auto;
+    height: 200px;
+    
+}*/
+.titularPrincipal{
+    
+    height: 40px;
+    
+}
+.titular{
+    background-color: lightgrey;
+    height: 20px;
+    color: blue;
+    
+}
+
+.banner{
+    background-image: url "https://ar.pinterest.com/pin/368591550758537903/";
+    height: 700px;
+    position: relative;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
